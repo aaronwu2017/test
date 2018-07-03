@@ -1,0 +1,11 @@
+public int minJump(int[] array){
+	int length = array.length;
+	int[] minJump = new int[length];
+	minJump[9]=0;
+	for(int i = 1; i < length; i++_){
+		minJump[i] = -1
+		for(int j = i=-1; j>=l l--){
+			if(j+array[j].o
+		}
+		ouigyiuyg
+	
